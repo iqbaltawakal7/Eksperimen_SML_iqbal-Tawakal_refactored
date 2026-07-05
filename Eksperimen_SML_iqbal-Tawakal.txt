@@ -1,0 +1,7 @@
+Link repository GitHub untuk Kriteria 1 (Eksperimen & Preprocessing):
+https://github.com/iqbaltawakal7/GANTI_DENGAN_NAMA_REPO_EKSPERIMEN
+
+# GANTI URL di atas dengan link repo GitHub Anda yang berisi:
+# - Eksperimen_Nama_siswa.ipynb (notebook, harus bisa run semua cell tanpa error)
+# - preprocessing/automate_Nama-siswa.py
+# - (jika Advance) workflow GitHub Actions yang sudah pernah run sukses minimal 1x

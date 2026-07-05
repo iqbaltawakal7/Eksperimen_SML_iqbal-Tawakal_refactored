@@ -1,0 +1,8 @@
+Link repository GitHub untuk Kriteria 3 (Workflow CI):
+https://github.com/iqbaltawakal7/GANTI_DENGAN_NAMA_REPO_CI
+
+# GANTI URL di atas dengan link repo GitHub terpisah yang berisi:
+# - .github/workflows/ci.yml (workflow dibuat dari nol, BUKAN hasil copy dari sini)
+# - MLProject/ (modelling.py, MLProject, conda.yaml)
+# - Pastikan repo Public dan secrets (DOCKER_USERNAME, DOCKER_PASSWORD, dll) sudah di-set
+#   di GitHub repo Settings > Secrets and variables > Actions

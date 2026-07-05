@@ -1,0 +1,7 @@
+# Dependensi utama untuk seluruh pipeline (preprocessing, modelling, CI).
+# Disinkronkan dengan Workflow-CI/MLProject/conda.yaml — jika versi di sini
+# diubah/dipin, perbarui juga conda.yaml agar environment CI konsisten.
+pandas
+numpy
+scikit-learn
+mlflow

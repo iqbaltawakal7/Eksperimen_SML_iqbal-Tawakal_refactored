@@ -1,0 +1,11 @@
+(Isi file ini HANYA jika Anda menerapkan level Advanced)
+
+Link DagsHub tempat artefak MLflow disimpan:
+https://dagshub.com/GANTI_USERNAME/GANTI_NAMA_REPO
+
+Tambahkan kode berikut di awal modelling.py / modelling_tuning.py agar
+artefak otomatis tersimpan ke DagsHub (jalankan `dagshub login` dulu jika
+belum ada kredensial):
+
+    import dagshub
+    dagshub.init(repo_owner='<nama_owner>', repo_name='<nama_repo>', mlflow=True)
